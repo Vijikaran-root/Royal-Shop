@@ -70,7 +70,7 @@ Added Screenshots for your reference before installation :)
 <img src='assets/RS9.png' />
 <img src='assets/RS10.png' />
 
-By incorporating these React libraries, I have enhanced the functionality, state management, UI design, data fetching, data validation, navigation, and visual aspects of the project. These libraries contribute to an improved overall user experience and efficient development process.
+By incorporating these, I have enhanced the functionality, state management, UI design, data fetching, data validation, navigation, and visual aspects of the project. These libraries contribute to an improved overall user experience and efficient development process.
 ## License
 
-POS System project is licensed under the [MIT License](LICENSE).
+Royal Shop project is licensed under the [MIT License](LICENSE).
