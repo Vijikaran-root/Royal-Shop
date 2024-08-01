@@ -55,68 +55,6 @@ By utilizing this web application, supermarkets can streamline their product and
 >
 > Switch Between Themes 
 
-## Installation
-
-The application is developed using the Node environment with React.js. To install the project, you have two options: cloning the repository or downloading it as a ZIP file.
-
-Cloning the repository:
-
-Open your terminal or command prompt.
-Run the following command:
-```bash
-git clone [repository_url]
-```
-1. Navigate to the project directory:
-```bash
-cd [project_directory]
-```
-2. Install the project dependencies by running:
-```bash
-npm install
-``` 
-
-Downloading as a ZIP file:
-
-1. Download the ZIP file from the repository.
-2. Extract the contents of the ZIP file to a desired location on your computer.
-3. Open your terminal or command prompt.
-4. Navigate to the extracted project directory:
-cd [project_directory]
-```bash
-cd [project_directory]
-```
-2. Install the project dependencies by running:
-```bash
-npm install
-``` 
-After completing the installation process, you can proceed with running and using the application
-
-### Run
-
-```bash
-npm start
-``` 
-### Backend & API 
-The system is tightly integrated with a backend that I have built. Without the backend, the system will not function properly, and its features will not be accessible. To install and set up the backend, please follow these steps:
-
-1. Access the POS-BACKEND repository through this link: [POS-BACKEND](https://github.com/AhmadEleiwa/POS-Backend).
-2. Clone the repository or download it as a ZIP file.
-3. Open your terminal or command prompt.
-4. Navigate to the backend directory.
-5. Install the necessary dependencies by running the command:
-```bash
-npm install
-```
-1. Configure the backend by setting up the required environment variables, database connections, and any other necessary configurations.
-2. Run the backend server using the command:
-```bash
-npm start
-```
-The backend will now be up and running, providing the APIs required for the system's functionality.
-
-> **NOTE:** The system database is MongoDB and the uri of the database connection is hidden in .env file. To Setup mongodb configuration correctly you have add .env file with line below
->
-> MONGOPATH = "mongodb+srv://(username):ixrwZDUrxf6qcTei@cluster0.tubw4as.mongodb.net/(collection name)?retryWrites=true&w=majority"
 
 ## Screenshots
 Added Screenshots for your reference before installation :)
